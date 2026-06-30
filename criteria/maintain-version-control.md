@@ -30,7 +30,7 @@ See a list of git options under [All source code for any policy and software in 
 
 #### Further reading
 
-* [A note on commit messages](https://bitcrowd.dev/a-note-on-commit-messages) by Bitcrowd contains a lot fo good tips for commit messages.
+* [A note on commit messages](https://bitcrowd.dev/a-note-on-commit-messages) by Bitcrowd contains a lot of good tips for commit messages.
 
 ### Every commit message MUST link to discussions and issues wherever possible.
 
