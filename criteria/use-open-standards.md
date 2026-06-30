@@ -20,7 +20,7 @@ Besides making a list, consider adding badges to the repository for the standard
 
 #### Examples
 
-* [Standard for Public Code](https://github.com/publiccodenet/standard#standard-for-public-code) - showing both a badge in use and instructions for how to apply it.
+* [Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code#standard-for-public-code) - showing both a badge in use and instructions for how to apply it.
 
 ### Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
 
